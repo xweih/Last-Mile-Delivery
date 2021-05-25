@@ -16,3 +16,11 @@ For example, EventId 8366991 is a customer’s delivery. The address of this cus
 
 ## Mission
 Let us generate an assignment schedule for tomorrow by showing "who delivers which furniture". 
+
+## Method
+I implement a simple mix integer program (MIP) in a Python Jupyter notebook with Gurobi as the solver. 
+
+## Result
+I obtain the following Gantt chart schedule.
+
+<img src="images/Schedule.png" width="700">
