@@ -23,4 +23,4 @@ I implement a simple mix integer program (MIP) in a Python Jupyter notebook with
 ## Result
 I obtain the following Gantt chart schedule.
 
-<img src="images/Schedule.png" width="700">
+<img src="images/Schedule.png" >
