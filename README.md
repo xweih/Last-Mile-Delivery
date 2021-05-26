@@ -21,9 +21,8 @@ Let us generate an assignment schedule for tomorrow by showing "who delivers whi
 I implement a simple mix integer program (MIP) in a Python Jupyter notebook with Gurobi as the solver. Adding the following routine is necessary. 
 
 ```javascript
-function test() {
- console.log("look ma’, no spaces");
-}
+import gurobipy as gp
+from gurobipy import GRB
 ```
 
 ## Result
