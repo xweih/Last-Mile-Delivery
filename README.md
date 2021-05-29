@@ -18,7 +18,7 @@ For example, EventId 8366991 is a customer’s delivery. The address of this cus
 Let us generate an assignment schedule for tomorrow by showing "who delivers which furniture". 
 
 ## Method
-I implement a simple mix integer program (MIP) in a Python Jupyter notebook with Gurobi as the solver. Adding the following routine is necessary. 
+I implement a [Mix Integer Program (MIP)](https://en.wikipedia.org/wiki/Integer_programming) in a Python Jupyter notebook with [Gurobi](https://www.gurobi.com/) as the solver. Adding the following routine is necessary. 
 
 ```javascript
 import gurobipy as gp
