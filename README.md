@@ -24,7 +24,7 @@ I implement a [Mix Integer Program (MIP)](https://en.wikipedia.org/wiki/Integer_
 import gurobipy as gp
 from gurobipy import GRB
 ```
-
+ 
 ## Result
 I obtain the following Gantt chart schedule.
 
