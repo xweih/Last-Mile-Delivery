@@ -22,7 +22,7 @@ I implement a [Mix Integer Program (MIP)](https://en.wikipedia.org/wiki/Integer_
 
 ```javascript
 import gurobipy as gp
-from gurobipy import GRB
+from gurobipy import GRB  
 ```
  
 ## Result
