@@ -1,7 +1,7 @@
 # Last Mile Delivery 
 ## A practical solution to a schedule optimization problem using Gurobi
 
-<img src="images/LMD_Designer.png" width="1000" >
+<img src="images/LMD_Designer_1.png" width="1000" >
 
 ## Story
 Furniture Co’s logistic department of is responsible for the last mile delivery (for more general information, see also [here](https://onfleet.com/blog/what-is-last-mile-delivery/)) from store to customers’ homes. The company has stores in many cities across the country. Each store is responsible for delivering customers’ items in the region. Every store has several one-furniture trucks, which are used to transport furniture from the store to each customer. There are a number of employees who can drive the trucks to deliver furniture. A one-furniture truck can take one furniture at a time, as shown in the following photo. A one-furniture truck takes one Furniture Co’s employee to drive and operate. For now, let’s assume each store always has the same number of one-furniture trucks and employees.
