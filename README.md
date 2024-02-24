@@ -1,7 +1,6 @@
 # Last Mile Delivery 
 ## A practical solution to a schedule optimization problem using Gurobi
 
-![alt text](https://leighdavid.com/wp-content/uploads/2019/03/final-mile-home-delivery-bg.png)
 <img src="images/LMD_Designer.png" width="1000" >
 
 ## Story
