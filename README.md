@@ -1,4 +1,4 @@
-# Last Mile Delivery (LMD) Scheduling
+# Last Mile Delivery (LMD) 
 ## A practical solution to a schedule optimization problem using Gurobi
 
 <img src="images/LMD_Designer_1.png" width="1000" >
